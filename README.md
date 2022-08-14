@@ -1,5 +1,6 @@
-# livro de recietas
+# livro de receitas
 
 Ola! Bem vindo ao meu livro de receitas
 
  - Strogonoff de frango
+ - Pave
